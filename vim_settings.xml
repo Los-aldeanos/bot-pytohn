@@ -1,0 +1,75 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1590194726369">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Bot/Bot.py" timestamp="1590187989378" />
+      <file name="/Python Console" timestamp="1590188014603">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/desktop-tutorial/Primer intento de bot.py" timestamp="1590195404714">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/discord.py/setup.py" timestamp="1590188786406">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text>from setuptools import setup
+import re
+
+requirements = []
+w</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text>from setuptools import setup
+import re
+
+requirements = []
+w</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">aXRoIG9wZW4oJ3JlcXVpcmVtZW50cy50eHQnKSBhcyBmOgogIHJlcXVpcmVtZW50cyA9IGYucmVhZCgpLnNwbGl0bGluZXMoKQoKdmVyc2lvbiA9ICcnCndpdGggb3BlbignZGlzY29yZC9fX2luaXRfXy5weScpIGFzIGY6CiAgICB2ZXJzaW9uID0gcmUuc2VhcmNoKHInXl9fdmVyc2lvbl9fXHMqPVxzKltcJyJdKFteXCciXSopW1wnIl0nLCBmLnJlYWQoKSwgcmUuTVVMVElMSU5FKS5ncm91cCgxKQoKaWYgbm90IHZlcnNpb246CiAgICByYWlzZSBSdW50aW1lRXJyb3IoJ3ZlcnNpb24gaXMgbm90IHNldCcpCgppZiB2ZXJzaW9uLmVuZHN3aXRoKCgnYScsICdiJywgJ3JjJykpOgogICAgIyBhcHBlbmQgdmVyc2lvbiBpZGVudGlmaWVyIGJhc2VkIG9uIGNvbW1pdCBjb3VudAogICAgdHJ5OgogICAgICAgIGltcG9ydCBzdWJwZG91dD1zdWJwcm9jZXNzLlBJUEUsIHN0ZGVycj1zdWJwcm9jZXNzLlBJUEUpCiAgICAgICAgb3V0LCBlcnIgPSBwLmNvbW11bmljYXRlKCkKICAgICAgICBpZiBvdXQ6CiAgICAgICAgICAgIHZlcnNpb24gKz0gb3V0LmRlY29kZSgndXRmLTgnKS5zdHJpcCgpCiAgICAgICAgcCA9IHN1YnByb2Nlc3MuUG9wZW4oWydnaXQnLCAncmV2LXBhcnNlJywgJy0tc2hvcnQnLCAnSEVBRCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsIHN0ZGVycj1zdWJwcm9jZXNzLlBJUEUpCiAgICAgICAgb3V0LCBlcnIgPSBwLmNvbW11bmljYXRlKCkKICAgICAgICBpZiBvdXQ6CiAgICAgICAgICAgIHZlcnNpb24gKz0gJytnJyArIG91dC5kZWNvZGUoJ3V0Zi04Jykuc3RyaXAoKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBwYXNzCgpyZWFkbWUgPSAnJwp3aXRoIG9wZW4oJ1JFQURNRS5yc3QnKSBhcyBmOgogICAgcmVhZG1lID0gZi5yZWFkKCkKCmV4dHJhc19yZXF1aXJlID0gewogICAgJ3ZvaWNlJzogWydQeU5hQ2w9PTEuMy4wJ10sCiAgICAnZG9jcyc6IFsKICAgICAgICAnc3BoaW54PT0xLjguNScsCiAgICAgICAgJ3NwaGlueGNvbnRyaWJfdHJpbz09MS4xLjEnLAogICAgICAgICdzcGhpbnhjb250cmliLXdlYnN1cHBvcnQnLAogICAgXQp9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CnNldHVwKG5hbWU9J2Rpc2NvcmQucHknLAogICAgICBhdXRob3I9J1JhcHB0eicsCiAgICAgIHVybD0naHR0cHM6Ly9naXRodWIuY29tL1JhcHB0ei9kaXNjb3JkLnB5JywKICAgICAgcHJvamVjdF91cmxzPXsKICAgICAgICAiRG9jdW1lbnRhdGlvbiI6ICJodHRwczovL2Rpc2NvcmRweS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3QvIiwKICAgICAgICAiSXNzdWUgdHJhY2tlciI6ICJodHRwczovL2dpdGh1Yi5jb20vUmFwcHR6L2Rpc2NvcmQucHkvaXNzdWVzIiwKICAgICAgfSwKICAgICAgdmVyc2lvbj12ZXJzaW9uLAogICAgICBwYWNrYWdlcz1bJ2Rpc2NvcmQnLCAnZGlzY29yZC5leHQuY29tbWFuZHMnLCAnZGlzY29yZC5leHQudGFza3MnXSwKICAgICAgbGljZW5zZT0nTUlUJywKICAgICAgZGVzY3JpcHRpb249J0EgUHl0aG9uIHdyYXBwZXIgZm9yIHRoZSBEaXNjb3JkIEFQSScsCiAgICAgIGxvbmdfZGVzY3JpcHRpb249cmVhZG1lLAogICAgICBsb25nX2Rlc2NyaXB0aW9uX2NvbnRlbnRfdHlwZT0idGV4dC94LXJzdCIsCiAgICAgIGluY2x1ZGVfcGFja2FnZV9kYXRhPVRydWUsCiAgICAgIGluc3RhbGxfcmVxdWlyZXM9cmVxdWlyZW1lbnRzLAogICAgICBleHRyYXNfcmVxdWlyZT1leHRyYXNfcmVxdWlyZSwKICAgICAgcHl0aG9uX3JlcXVpcmVzPSc+PTMuNS4zJywKICAgICAgY2xhc3NpZmllcnM9WwogICAgICAgICdEZXZlbG9wbWVudCBTdGF0dXMgOjogNSAtIFByb2R1Y3Rpb24vU3RhYmxlJywKICAgICAgICAnTGljZW5zZSA6OiBPU0kgQXBwcm92ZWQgOjogTUlUIExpY2Vuc2UnLAogICAgICAgICdJbnRlbmRlZCBBdWRpZW5jZSA6OiBEZXZlbG9wZXJzJywKICAgICAgICAnTmF0dXJhbCBMYW5ndWFnZSA6OiBFbmdsaXNoJywKICAgICAgICAnT3BlcmF0aW5nIFN5c3RlbSA6OiBPUyBJbmRlcGVuZGVudCcsCiAgICAgICAgJ1Byb2dyYW1taW5nIExhbmd1YWdlIDo6IFB5dGhvbiA6OiAzLjUnLAogICAgICAgICdQcm9ncmFtbWluZyBMYW5ndWFnZSA6OiBQeXRob24gOjogMy42JywKICAgICAgICAnUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDMuNycsCiAgICAgICAgJ1Byb2dyYW1taW5nIExhbmd1YWdlIDo6IFB5dGhvbiA6OiAzLjgnLAogICAgICAgICdUb3BpYyA6OiBJbnRlcm5ldCcsCiAgICAgICAgJ1RvcGljIDo6IFNvZnR3YXJlIERldmVsb3BtZW50IDo6IExpYnJhcmllcycsCiAgICAgICAgJ1RvcGljIDo6IFNvZnR3YXJlIERldmVsb3BtZW50IDo6IExpYnJhcmllcyA6OiBQeXRob24gTW9kdWxlcycsCiAgICAgICAgJ1RvcGljIDo6IFV0aWxpdGllcycsCiAgICAgIF0KKQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>rocess
+        p = subprocess.Popen(['git', 'rev-list', '--count', 'HEAD'],
+                             st</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
