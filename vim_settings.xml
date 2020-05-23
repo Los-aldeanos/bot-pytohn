@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/Documents/GitHub/desktop-tutorial/Primer intento de bot.py" timestamp="1590195404714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/proyecto-bot-python/Bot.py" timestamp="1590206626284">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/proyecto-bot-python/Bot.py" timestamp="1590208168484">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/discord.py/setup.py" timestamp="1590188786406">
         <mark key="[" line="0" column="0" />
@@ -47,12 +47,8 @@ import re
 requirements = []
 w</text>
       </register>
-      <register name="&quot;" type="2">
-        <text>from setuptools import setup
-import re
-
-requirements = []
-w</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">aXRoIG9wZW4oJ3JlcXVpcmVtZW50cy50eHQnKSBhcyBmOgogIHJlcXVpcmVtZW50cyA9IGYucmVhZCgpLnNwbGl0bGluZXMoKQoKdmVyc2lvbiA9ICcnCndpdGggb3BlbignZGlzY29yZC9fX2luaXRfXy5weScpIGFzIGY6CiAgICB2ZXJzaW9uID0gcmUuc2VhcmNoKHInXl9fdmVyc2lvbl9fXHMqPVxzKltcJyJdKFteXCciXSopW1wnIl0nLCBmLnJlYWQoKSwgcmUuTVVMVElMSU5FKS5ncm91cCgxKQoKaWYgbm90IHZlcnNpb246CiAgICByYWlzZSBSdW50aW1lRXJyb3IoJ3ZlcnNpb24gaXMgbm90IHNldCcpCgppZiB2ZXJzaW9uLmVuZHN3aXRoKCgnYScsICdiJywgJ3JjJykpOgogICAgIyBhcHBlbmQgdmVyc2lvbiBpZGVudGlmaWVyIGJhc2VkIG9uIGNvbW1pdCBjb3VudAogICAgdHJ5OgogICAgICAgIGltcG9ydCBzdWJwZG91dD1zdWJwcm9jZXNzLlBJUEUsIHN0ZGVycj1zdWJwcm9jZXNzLlBJUEUpCiAgICAgICAgb3V0LCBlcnIgPSBwLmNvbW11bmljYXRlKCkKICAgICAgICBpZiBvdXQ6CiAgICAgICAgICAgIHZlcnNpb24gKz0gb3V0LmRlY29kZSgndXRmLTgnKS5zdHJpcCgpCiAgICAgICAgcCA9IHN1YnByb2Nlc3MuUG9wZW4oWydnaXQnLCAncmV2LXBhcnNlJywgJy0tc2hvcnQnLCAnSEVBRCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsIHN0ZGVycj1zdWJwcm9jZXNzLlBJUEUpCiAgICAgICAgb3V0LCBlcnIgPSBwLmNvbW11bmljYXRlKCkKICAgICAgICBpZiBvdXQ6CiAgICAgICAgICAgIHZlcnNpb24gKz0gJytnJyArIG91dC5kZWNvZGUoJ3V0Zi04Jykuc3RyaXAoKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBwYXNzCgpyZWFkbWUgPSAnJwp3aXRoIG9wZW4oJ1JFQURNRS5yc3QnKSBhcyBmOgogICAgcmVhZG1lID0gZi5yZWFkKCkKCmV4dHJhc19yZXF1aXJlID0gewogICAgJ3ZvaWNlJzogWydQeU5hQ2w9PTEuMy4wJ10sCiAgICAnZG9jcyc6IFsKICAgICAgICAnc3BoaW54PT0xLjguNScsCiAgICAgICAgJ3NwaGlueGNvbnRyaWJfdHJpbz09MS4xLjEnLAogICAgICAgICdzcGhpbnhjb250cmliLXdlYnN1cHBvcnQnLAogICAgXQp9Cg==</text>
@@ -64,6 +60,9 @@ w</text>
         <text>rocess
         p = subprocess.Popen(['git', 'rev-list', '--count', 'HEAD'],
                              st</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
       </register>
     </registers>
   </component>
