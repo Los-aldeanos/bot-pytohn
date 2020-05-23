@@ -15,6 +15,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1590222552164">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1590206246198">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,12 +27,7 @@
       <file name="$USER_HOME$/Documents/GitHub/desktop-tutorial/Primer intento de bot.py" timestamp="1590195404714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/proyecto-bot-python/Bot.py" timestamp="1590221412203">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="30" column="47" />
-        <mark key="^" line="30" column="47" />
-        <mark key="." line="30" column="46" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/proyecto-bot-python/Bot.py" timestamp="1590222529802" />
       <file name="$USER_HOME$/Documents/GitHub/discord.py/setup.py" timestamp="1590188786406">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
