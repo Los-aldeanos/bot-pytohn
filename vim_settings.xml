@@ -12,19 +12,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590202101943">
+      <file name="/Dummy.txt" timestamp="1590194726369">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Bot/Bot.py" timestamp="1590187989378" />
       <file name="/Python Console" timestamp="1590188014603">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/desktop-tutorial/Primer intento de bot.py" timestamp="1590195404714">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/bot/bot.py" timestamp="1590202065393">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/proyecto-bot-python/Bot.py" timestamp="1590202163543">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/discord.py/setup.py" timestamp="1590188786406">
