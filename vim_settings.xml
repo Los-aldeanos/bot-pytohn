@@ -30,10 +30,11 @@
       <file name="$USER_HOME$/Documents/GitHub/desktop-tutorial/Primer intento de bot.py" timestamp="1590195404714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/bot-pytohn/bot.py" timestamp="1590224807441">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/bot-pytohn/bot.py" timestamp="1590225687953">
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+        <mark key="^" line="35" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/bot-pytohn/token.txt" timestamp="1590224253689">
         <mark key="[" line="0" column="0" />
@@ -56,8 +57,8 @@
       <register name="1" type="2">
         <text encoding="base64">bWVtYmVyID0gZGlzY29yZC5tZW1iZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWVtYmVyID0gZGlzY29yZC5tZW1iZXIK</text>
+      <register name="&quot;" type="4">
+        <text>.time(datetime.now(),&quot;%H:%M&quot;)</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgaWYgbWVzc2FnZS5jb250ZW50LmZpbmQoIkRhdmlkIGVyZXMgYmllbiBob21vc2V4dWFsIikgIT0gLTE6CiAgICAgICAgYXdhaXQgbWVzc2FnZS5jaGFubmVsLnNlbmQoImNvbiByYXpvbiBsZSBndXN0YSBlbCBpYW4gZW4gc2VjcmV0byIp</text>
@@ -81,7 +82,7 @@ w</text>
                              st</text>
       </register>
       <register name="-" type="4">
-        <text>NzEzNTkxOTk3MjU2MDQwNDk4.XsidrQ._FYrwlbdpIwT5CyO4Tlqs7xqzTQ</text>
+        <text>.time(datetime.now(),&quot;%H:%M&quot;)</text>
       </register>
     </registers>
   </component>
